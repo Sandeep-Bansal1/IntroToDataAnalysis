@@ -1,5 +1,7 @@
 # IntroToDataAnalysis
 
+<img src="https://www.computerhope.com/cdn/computer-hope.jpg" width="200" height="40" alt="Computer Hope">
+
 This is a repository to upload code commits for assignments and other information while taking UMBC's DATA602-Intro to Data Analysis & Machine Learning course.
 
 Looking forward to learning a lot in this course!
