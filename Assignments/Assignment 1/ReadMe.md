@@ -20,11 +20,10 @@ Professor has detailed specifics related to criterion for the successful complet
 7. You should be able to assess the model fitness and you should do model diagnosis as it is described in ISLR 3.3.3.
 
 ## Deliverables:
-This assignment contains three main ingredients:
+This assignment contains 2 primary areas:
 
 1. ReadMe file (This file)
 
-2. Code inside Jupyter Notebook
+2. Code, Summary, and Report within Jupyter Notebook: <a href=https://github.com/Lwhieldon/IntroToDataAnalysis/blob/master/Assignments/Assignment%201/Assignment_1.ipynb>Link to Notebook</a>
 
-3. Summary + Report (als inside Jupyter Notebook).
 
