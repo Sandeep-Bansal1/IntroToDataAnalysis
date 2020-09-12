@@ -1,9 +1,13 @@
 # IntroToDataAnalysis
 
-This is a repository to upload code commits related to assignments in UMBC's Intro to Data Analysis & Machine Learning course.
+This is a repository to upload code commits for assignments and other information while taking UMBC's DATA602-Intro to Data Analysis & Machine Learning course.
 
-As a precursor, I uploaded a few sample files and jupyter notebooks for current work deliverables & prior classwork to get familiar with GitHub and created a subfolder to publish assignments as the course progresses
+# Navigation
 
-Enjoy!
+About Me: This is a little section that shows my resume and links to my LinkedIn if you'd like to add me to your connections
+
+<a href=https://github.com/Lwhieldon/IntroToDataAnalysis/tree/master/Assignments>Assignments</a>: This section will be where I save all code, notebooks, images, and data required to complete assignments
+
+Looking forward to learning a lot in this course!
 
 Lee
