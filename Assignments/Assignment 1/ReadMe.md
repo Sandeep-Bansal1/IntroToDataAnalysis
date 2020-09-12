@@ -1,10 +1,10 @@
-I will store information related to the first assignment here
-
 ## The first homework details
-Recall that the first homework is due to week-4 lecture <b>(09/22)</b>.
-Your task will be applying a linear regression model to a dataset of your choice.
+This first homework is due to week-4 lecture <b>(09/22/2020)</b>.
+This assignment explore the application of a linear regression model to a dataset of my choosing.
 
 # Directions:
+Professor has detailed specifics related to criterion for the successful completion of this assignment:
+
 1. You cannot work with datasets that is explored in our textbooks or in our classes.
 
 2. The Dataset should contain more than 200 observations (rows) and more than 4 columns.
@@ -20,14 +20,11 @@ Your task will be applying a linear regression model to a dataset of your choice
 7. You should be able to assess the model fitness and you should do model diagnosis as it is described in ISLR 3.3.3.
 
 ## Deliverables:
-As I mentioned in the first class, I want you to upload your project into Github and share it with me the github link. Github folder should contain three main ingredient:
+This assignment contains three main ingredients:
 
-1. ReadMe
+1. ReadMe file (This file)
 
-2. Code + Notebooks
+2. Code inside Jupyter Notebook
 
-3. Summary + Report.
+3. Summary + Report (als inside Jupyter Notebook).
 
-I will explain more on what I will be looking for in each of these items later in the class.
-
-Here is a good example of a very good project done by one of my previous students: Alphonso Woodbury - Project
