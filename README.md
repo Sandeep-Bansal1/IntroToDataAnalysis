@@ -1,7 +1,10 @@
-# IntroToDataAnalysis
 <div class="container" align="center">
-<img src="https://github.com/Lwhieldon/IntroToDataAnalysis/blob/master/Images/data-analytics-banner.png" >
-</div>
+    <img src="https://github.com/Lwhieldon/IntroToDataAnalysis/blob/master/Images/data-analytics-banner.png" >
+    </div>
+<br>
+<br>    
+
+# IntroToDataAnalysis
 
 This is a repository to upload code commits for assignments and other information while taking UMBC's DATA602-Intro to Data Analysis & Machine Learning course.
 
