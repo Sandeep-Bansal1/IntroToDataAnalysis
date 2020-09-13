@@ -2,7 +2,7 @@
     <img src="https://github.com/Lwhieldon/IntroToDataAnalysis/blob/master/Images/data-analytics-banner.png" width="1200" height="100">
     </div>
 
-# IntroToDataAnalysis
+# DATA602: Intro To Data Analysis
 
 This is a repository to upload code commits for assignments and other information while taking UMBC's DATA602-Intro to Data Analysis & Machine Learning course.
 
