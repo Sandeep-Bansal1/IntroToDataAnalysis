@@ -1,6 +1,6 @@
 # IntroToDataAnalysis
-<div class="container">
-<img src="https://github.com/Lwhieldon/IntroToDataAnalysis/blob/master/Images/Tableau-Performance-Optimization-content-banner.png" class="center">
+<div class="container" align="center">
+<img src="https://github.com/Lwhieldon/IntroToDataAnalysis/blob/master/Images/Tableau-Performance-Optimization-content-banner.png">
 </div>
 
 This is a repository to upload code commits for assignments and other information while taking UMBC's DATA602-Intro to Data Analysis & Machine Learning course.
@@ -11,5 +11,8 @@ Looking forward to learning a lot in this course!
 <a href=https://github.com/Lwhieldon/IntroToDataAnalysis/tree/master/About%20Me>About Me</a>: This is a little section that shows an interactive resume and links to my LinkedIn if you'd like to add me to your connections
 
 <a href=https://github.com/Lwhieldon/IntroToDataAnalysis/tree/master/Assignments>Assignments</a>: This section will be where I save all code, notebooks, images, and data required to complete assignments
+
+
+
 
 
