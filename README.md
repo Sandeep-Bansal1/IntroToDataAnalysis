@@ -1,7 +1,6 @@
 <div class="container" align="center">
     <img src="https://github.com/Lwhieldon/IntroToDataAnalysis/blob/master/Images/data-analytics-banner.png" width="1200" height="100">
     </div>
-<br>
 
 # IntroToDataAnalysis
 
