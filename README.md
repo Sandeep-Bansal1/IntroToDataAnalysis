@@ -1,6 +1,6 @@
 # IntroToDataAnalysis
 
-<img src="https://github.com/Lwhieldon/IntroToDataAnalysis/blob/master/Images/Tableau-Performance-Optimization-content-banner.png" width="200" height="40" alt="Computer Hope">
+<img src="https://github.com/Lwhieldon/IntroToDataAnalysis/blob/master/Images/Tableau-Performance-Optimization-content-banner.png">
 
 This is a repository to upload code commits for assignments and other information while taking UMBC's DATA602-Intro to Data Analysis & Machine Learning course.
 
