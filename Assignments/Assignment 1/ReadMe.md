@@ -3,18 +3,13 @@
 ## Deliverables:
 This assignment contains 4 primary areas:
 
-1. ReadMe file (This file)
+1. ReadMe file (This file): Providing a brief overview of the assignment's navigation, directions, contributors, and lanugages/tools/libraries used.
 
 2. <a href=https://github.com/Lwhieldon/IntroToDataAnalysis/blob/master/Assignments/Assignment%201/Assignment_1.ipynb>Summary and Report</a>: Jupyter Notebook including a detailed abstract on problems in assignment, code relevant to project, and visualizations supporting the completion of the project.
 
 3. <a href=https://github.com/Lwhieldon/IntroToDataAnalysis/blob/master/Assignments/Assignment%201/Sample%20-%20Superstore.csv>Dataset Used for Assignment:</a>. This data contains ~10k records and 17 columns.
 
 4. <a href=https://github.com/Lwhieldon/IntroToDataAnalysis/blob/master/Assignments/Assignment%201/Code.ipynb>Code:</a> Area to perform testing of dataset, functions, and implement models before final project output (step 2). 
-
-## Python Packages Used 
-1. Pandas
-2. Scikit Learn
-3. MatplotLib
 
 ## Directions:
 
@@ -34,5 +29,18 @@ This assignment explore the application of a linear regression model to a datase
 
 7. You should be able to assess the model fitness and you should do model diagnosis as it is described in ISLR 3.3.3.
 
+<pre>
+Contributors : <a href=https://github.com/Lwhieldon>Lee Whieldon</a>
+</pre>
+
+<pre>
+Languages    : Python
+Tools/IDE    : Anaconda
+Libraries    : pandas, matplotlib, statsmodels, sklearn
+</pre>
+
+<pre>
+Assignment Submitted     : September 2020
+</pre>
 
 
