@@ -9,7 +9,7 @@ This assignment contains 4 primary areas:
 
 3. <a href=https://github.com/Lwhieldon/IntroToDataAnalysis/blob/master/Assignments/Assignment%201/Sample%20-%20Superstore.csv>Dataset Used for Assignment:</a>. This data contains ~10k records and 17 columns.
 
-4. <a href=> 
+4. <a href=https://github.com/Lwhieldon/IntroToDataAnalysis/blob/master/Assignments/Assignment%201/Code.ipynb>Code:</a> Area to perform testing of dataset, functions, and implement models before final project output (step 2). 
 
 ## Python Packages Used 
 1. Pandas
