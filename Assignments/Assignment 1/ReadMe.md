@@ -1,9 +1,23 @@
-## The first homework details
-This first homework is due to week-4 lecture <b>(09/22/2020)</b>.
-This assignment explore the application of a linear regression model to a dataset of my choosing.
+# Assignment 1: Regression
 
-# Directions:
-Professor has detailed specifics related to criterion for the successful completion of this assignment:
+## Deliverables:
+This assignment contains 4 primary areas:
+
+1. ReadMe file (This file)
+
+2. <a href=https://github.com/Lwhieldon/IntroToDataAnalysis/blob/master/Assignments/Assignment%201/Assignment_1.ipynb>Summary and Report</a>: Jupyter Notebook including a detailed abstract on problems in assignment, code relevant to project, and visualizations supporting the completion of the project.
+
+3. <a href=https://github.com/Lwhieldon/IntroToDataAnalysis/blob/master/Assignments/Assignment%201/Sample%20-%20Superstore.csv>Dataset Used for Assignment:</a>. This data contains ~10k records and 17 columns.
+
+4. 
+## Python Packages Used 
+1. Pandas
+2. Scikit Learn
+3. MatplotLib
+
+## Directions:
+
+This assignment explore the application of a linear regression model to a dataset of my choosing. The below are required to successfully complete the assignment:
 
 1. You cannot work with datasets that is explored in our textbooks or in our classes.
 
@@ -19,11 +33,5 @@ Professor has detailed specifics related to criterion for the successful complet
 
 7. You should be able to assess the model fitness and you should do model diagnosis as it is described in ISLR 3.3.3.
 
-## Deliverables:
-This assignment contains 2 primary areas:
-
-1. ReadMe file (This file)
-
-2. Code, Summary, and Report within Jupyter Notebook: <a href=https://github.com/Lwhieldon/IntroToDataAnalysis/blob/master/Assignments/Assignment%201/Assignment_1.ipynb>Link to Notebook</a>
 
 
