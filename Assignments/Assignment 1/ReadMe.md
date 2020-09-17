@@ -5,6 +5,11 @@
 
 ## Overview
 
+To stay on top of supply and demand, businesses are looking to find ways to better understand their future profits and success in their respective industry.
+
+For this assignment, I will pretend to be a data scientist for Tableau's 'Sample-Superstore', in which I use machine learning techniques to predict future profit by product category for 'Sample-Superstore' by selecting a regression model that best fits to the data.
+
+Check out the navigation below to see the entire story! 
 
 ## Deliverables:
 This assignment contains 4 primary areas:
