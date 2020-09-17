@@ -22,7 +22,6 @@ This assignment contains 4 primary areas:
 
 4. <a href=https://github.com/Lwhieldon/IntroToDataAnalysis/blob/master/Assignments/Assignment%201/Code.ipynb>Code:</a> Area to perform testing of dataset, functions, and implement models before final project output (step 2). 
 
-
 <pre>
 Contributors : <a href=https://github.com/Lwhieldon>Lee Whieldon</a>
 </pre>
