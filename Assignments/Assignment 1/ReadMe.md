@@ -9,7 +9,7 @@
 ## Deliverables:
 This assignment contains 4 primary areas:
 
-1. ReadMe file (This file): Providing a brief overview of the assignment's navigation, directions, contributors, and lanugages/tools/libraries used.
+1. ReadMe file (This file): Providing a brief overview of the assignment's navigation, contributors, and lanugages/tools/libraries used.
 
 2. <a href=https://github.com/Lwhieldon/IntroToDataAnalysis/blob/master/Assignments/Assignment%201/Assignment_1.ipynb>Summary and Report</a>: Jupyter Notebook including a detailed abstract on problems in assignment, code relevant to project, and visualizations supporting the completion of the project.
 
