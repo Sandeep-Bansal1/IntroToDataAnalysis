@@ -25,7 +25,7 @@ Contributors : <a href=https://github.com/Lwhieldon>Lee Whieldon</a>
 <pre>
 Languages    : Python
 Tools/IDE    : Anaconda
-Libraries    : pandas, matplotlib, statsmodels, sklearn, seaborn
+Libraries    : pandas, matplotlib, statsmodels, sklearn, seaborn, io, requests
 </pre>
 
 <pre>
