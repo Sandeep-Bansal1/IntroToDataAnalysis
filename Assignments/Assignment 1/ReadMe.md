@@ -16,7 +16,7 @@ This assignment contains 4 primary areas:
 
 1. ReadMe file (This file): Providing a brief overview of the assignment's navigation, contributors, and lanugages/tools/libraries used.
 
-2. <a href=https://github.com/Lwhieldon/IntroToDataAnalysis/blob/master/Assignments/Assignment%201/Assignment_1.ipynb>Summary and Report</a>: Jupyter Notebook including a detailed abstract on problems in assignment, code relevant to project, and visualizations supporting the completion of the project.
+2. <a href=https://github.com/Lwhieldon/IntroToDataAnalysis/blob/master/Assignments/Assignment%201/Summary%20Report.ipynb>Summary and Report</a>: Jupyter Notebook including a detailed abstract on problems in assignment, code relevant to project, and visualizations supporting the completion of the project.
 
 3. <a href=https://github.com/Lwhieldon/IntroToDataAnalysis/blob/master/Assignments/Assignment%201/Sample%20-%20Superstore.csv>Dataset Used for Assignment:</a>. This data contains ~10k records and 17 columns.
 
